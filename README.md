@@ -1,10 +1,13 @@
 
 # Adopte Un Meuble
 
+<img width="922" alt="Capture d'écran 2024-03-16 144115" src="https://github.com/apolline-diaz/E-Shop-Adopteunmeuble/assets/146845437/be897b50-b2b0-4e2b-9270-ad7b3f01df08">
+<img width="915" alt="Capture d'écran 2024-03-15 170922" src="https://github.com/apolline-diaz/E-Shop-Adopteunmeuble/assets/146845437/4ef83dba-e227-4507-8079-798db994acaf">
+
 La plateforme de vente de meubles qui va vous aider à trouver le match parfait !
 
 
-## Authors
+## Equipe
 
 - Apolline Diaz
 - Angie Gillardet
