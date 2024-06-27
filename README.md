@@ -2,7 +2,6 @@
 # Adopte Un Meuble
 
 <img width="922" alt="Capture d'écran 2024-03-16 144115" src="https://github.com/apolline-diaz/E-Shop-Adopteunmeuble/assets/146845437/be897b50-b2b0-4e2b-9270-ad7b3f01df08">
-<img width="915" alt="Capture d'écran 2024-03-15 170922" src="https://github.com/apolline-diaz/E-Shop-Adopteunmeuble/assets/146845437/4ef83dba-e227-4507-8079-798db994acaf">
 
 La plateforme de vente de meubles qui va vous aider à trouver le match parfait !
 
@@ -129,6 +128,7 @@ Pour lancer ce projet, il va vous falloir ajouter les variables suivantes à vot
 Découvrez la démo en suivant ce lien :
 https://vimeo.com/924123048
 
+<img width="915" alt="Capture d'écran 2024-03-15 170922" src="https://github.com/apolline-diaz/E-Shop-Adopteunmeuble/assets/146845437/4ef83dba-e227-4507-8079-798db994acaf">
 <img width="915" alt="Capture d'écran 2024-03-15 170922" src="https://github.com/apolline-diaz/E-Shop-Adopteunmeuble/assets/146845437/56fa532d-e59a-4c1e-990a-3674468ee2f4">
 <img width="921" alt="Capture d'écran 2024-03-15 153112" src="https://github.com/apolline-diaz/E-Shop-Adopteunmeuble/assets/146845437/7923f9af-def2-4aa6-996d-c3362938b044">
 
